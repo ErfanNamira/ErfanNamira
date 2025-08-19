@@ -4,7 +4,11 @@
 **ErfanNamira/ErfanNamira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-💡 Curious mind • 🧑‍🏫 Physics Teacher • 💻 Developer in the making  
+<p>
+  <img src="https://img.shields.io/badge/Curious_Mind-💡-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Physics_Teacher-🧑‍🏫-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Developer-💻-green?style=flat-square"/>
+</p>
 
 ---
 
@@ -27,10 +31,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ErfanNamira&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanNamira&layout=compact&theme=tokyonight" height="180px"/>
-</p>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ErfanNamira&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanNamira&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+
+</div>
 
 ---
 
