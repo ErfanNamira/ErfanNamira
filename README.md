@@ -35,7 +35,7 @@
 ---
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/4X30nP3Ks6BiFBX9tNsVHw)
 
 ---
 
